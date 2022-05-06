@@ -1,0 +1,5 @@
+- 👋 Olá meu nome é Ariane
+- 👀 meus interesses são estudar para aprender coisas novas
+- 🌱 no momento estou aprendendo scratch,alura,github,javascript
+- 📫 Como chegar ate em mim : ariane.rodrigues.lara@escola.pr.gov.br
+- 
